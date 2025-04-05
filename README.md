@@ -1,4 +1,4 @@
-# 🔍 LeadGen Scraper
+# 🔍 Metamorphosis Scraper
 
 A simple, stylish lead generation web scraper using **Streamlit** and **Selenium**, designed to extract relevant information (like links and content) from websites for business prospecting or research.
 
