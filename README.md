@@ -56,5 +56,5 @@ The tool is designed to assist Sales, BD, or Growth teams in discovering valuabl
 
 ## Author
 Created for Caprae Capital internship pre-work by Amirul Kurniawan
-**Email**: amrlkurniawn19@gmail.com
-**LinkedIn**: linkedin.com/in/mohammad-amirul-kurniawan-putranto/
+- Email: amrlkurniawn19@gmail.com
+- LinkedIn: linkedin.com/in/mohammad-amirul-kurniawan-putranto/
