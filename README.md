@@ -25,8 +25,8 @@ A simple, stylish lead generation web scraper using **Streamlit** and **Selenium
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/leadgen-scraper.git
-cd leadgen-scraper
+git clone https://github.com/amiraar/metamorphosis-scraper.git
+cd metamorphosis-scraper
 ```
 
 ### 2. Install dependencies
