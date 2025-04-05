@@ -16,7 +16,7 @@ A simple, stylish lead generation web scraper using **Streamlit** and **Selenium
 
 ## 📸 Screenshot
 
-![Metamorphosis Scraper Screenshot](assets/screenshot.png) <!-- (Optional) Add your own screenshot here -->
+![Metamorphosis Scraper Screenshot](assets/Screenshot.png) <!-- (Optional) Add your own screenshot here -->
 
 ---
 
@@ -30,26 +30,31 @@ cd leadgen-scraper
 ```
 
 ### 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Run the app
+```bash
 streamlit run test1.py
+```
 
+---
 
 ## 🧾Requirements
-Python 3.7+
-Google Chrome installed
-Internet connection for downloading WebDriver
-
+**Python 3.7+**
+**Google Chrome installed**
+**Internet connection for downloading WebDriver**
+---
 
 ## Business Use Case
 The tool is designed to assist Sales, BD, or Growth teams in discovering valuable leads by:
--Scraping landing pages, blog posts, or directory listings.
--Parsing relevant content (title + top 3 paragraphs).
--Exporting actionable lead data for email outreach or CRM import.
-
+-**Scraping landing pages, blog posts, or directory listings**.
+-**Parsing relevant content (title + top 3 paragraphs)**.
+-**Exporting actionable lead data for email outreach or CRM import**.
+---
 
 ## Author
 Created for Caprae Capital internship pre-work by Amirul Kurniawan
-Email: amrlkurniawn19@gmail.com
-LinkedIn: linkedin.com/in/mohammad-amirul-kurniawan-putranto/
+**Email**: amrlkurniawn19@gmail.com
+**LinkedIn**: linkedin.com/in/mohammad-amirul-kurniawan-putranto/
