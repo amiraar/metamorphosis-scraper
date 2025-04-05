@@ -16,7 +16,7 @@ A simple, stylish lead generation web scraper using **Streamlit** and **Selenium
 
 ## 📸 Screenshot
 
-![LeadGen Scraper Screenshot](assets/screenshot.png) <!-- (Optional) Add your own screenshot here -->
+![Metamorphosis Scraper Screenshot](assets/screenshot.png) <!-- (Optional) Add your own screenshot here -->
 
 ---
 
